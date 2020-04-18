@@ -1,4 +1,0 @@
-DB Instance Identifier : sxadbinstance-test
-username : sxaadmin
-Password : W6HM7nhFBywkPJzW
-DBname : sxattpdb
